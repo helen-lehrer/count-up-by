@@ -26,3 +26,10 @@ Expected Output: [10,20,30,40,50,60]
 
 --
 
+Test: "Loop should count up by userInput up to a max of userCountTo"
+
+Code:
+
+Expected Output: Count to: userCountTo"40"
+                 Count by: userCountBy"8"
+                 Output: 8, 16, 24, 32, 40
